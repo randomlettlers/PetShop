@@ -1,2 +1,0 @@
-# PetShop
-A petshop project
